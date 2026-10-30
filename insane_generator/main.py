@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 import random
 vocabulary = [
     ["快乐", "愤怒", "绝望", "恐惧", "自由", "失败", "成功", "无助", "劳累", "极度兴奋", "彻底疯狂", "吃饱了撑"],
